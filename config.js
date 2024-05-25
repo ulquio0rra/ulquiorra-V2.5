@@ -10,23 +10,23 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['212717457920', 'bobiza', true],
+  ['201225188065', 'Ulquiorra', true],
 
-  ['212717457920','bobiza', true],
-  ['212717457920'],
-  ['212717457920']
+  ['201225188065','Ulquiorra', true],
+  ['201225188065'],
+  ['201225188065']
 ];
 
-global.suittag = ['212717457920'];
-global.prems = ['212717457920'];
+global.suittag = ['01225188065'];
+global.prems = ['01225188065'];
 
-global.packname = 'bobiza bot';
-global.author = 'bobiza';
-global.wm = 'bobiza';
-global.titulowm = 'bobiza';
-global.titulowm2 = `bobiza`
-global.igfg = 'bobiza';
-global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/noureddine_ouafy';
+global.packname = 'Ulquiorra bot';
+global.author = 'Ulquiorra';
+global.wm = 'Ulquiorra';
+global.titulowm = 'Ulquiorra';
+global.titulowm2 = `Ulquiorra`
+global.igfg = 'Ulquiorra';
+global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
