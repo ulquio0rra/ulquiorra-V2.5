@@ -23,7 +23,7 @@ var user = number + '@s.whatsapp.net'
 conn.groupParticipantsUpdate(m.chat, [user], 'demote')
 conn.reply(m.chat, `*[ ✅ ] تم تنزيله من الاشراف*`, m)
 }}
-handler.help = ['*201063720595xxx*','*@اسم المستخدم*','*محادثة المستجيب*'].map(v => 'demote ' + v)
+handler.help = ['*201225188065xxx*','*@اسم المستخدم*','*محادثة المستجيب*'].map(v => 'demote ' + v)
 handler.tags = ['group']
 handler.command = /^(خفض|إزالة المشرف|ازالة المشرف|تخفيض|تنزيل)$/i
 handler.group = true
