@@ -10,10 +10,10 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['+201225188065', '〔 الـكـيـورا╎𝖀𝖑𝖖𝖚𝖎𝖔𝖗𝖗𝖆〕', true]
+  ['201225188065', '〔 الـكـيـورا╎𝖀𝖑𝖖𝖚𝖎𝖔𝖗𝖗𝖆〕', true]
 ] 
-global.suittag = ['+201225188065'] 
-global.prems = ['+201225188065'] 
+global.suittag = ['201225188065'] 
+global.prems = ['201225188065'] 
 
 global.packname = '𝔘𝔩𝔮𝔲𝔦𝔬𝔯𝔯𝔞'
 global.author = '𝔅𝔬𝔱'
