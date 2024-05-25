@@ -10,21 +10,19 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['201225188065', 'Ulquiorra', true],
+  ['201225188065', '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒 ', true],
 
-  ['201225188065','Ulquiorra', true],
-  ['201225188065'],
-  ['201225188065']
+  ['201225188065','𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒', true]
 ];
 
 global.suittag = ['01225188065'];
 global.prems = ['01225188065'];
 
-global.packname = 'Ulquiorra bot';
-global.author = 'Ulquiorra';
-global.wm = 'Ulquiorra';
-global.titulowm = 'Ulquiorra';
-global.titulowm2 = `Ulquiorra`
+global.packname = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒 𝔹𝕠𝕥';
+global.author = '𝔹𝕠𝕥';
+global.wm = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒';
+global.titulowm = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒';
+global.titulowm2 = `𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒`
 global.igfg = 'Ulquiorra';
 global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
