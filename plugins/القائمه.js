@@ -225,7 +225,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '『👑┇Shadow┇🤖┇Bot┇👑』',
+title: '『👑┇𝔘𝔩𝔮𝔲𝔦𝔬𝔯𝔯𝔞┇🤖┇вσт┇👑』',
 body: null,
 thumbnail: img,
 sourceUrl: `https://telegra.ph/file/d7ae77d1178f9de50825c.jpg`
