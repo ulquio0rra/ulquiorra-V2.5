@@ -11,15 +11,18 @@ global.botnumber = ""
 
 global.owner = [
   ['201225188065', '〔 الـكـيـورا╎𝖀𝖑𝖖𝖚𝖎𝖔𝖗𝖗𝖆〕', true]
-] 
-global.suittag = ['201225188065'] 
-global.prems = ['201225188065'] 
+];
 
-global.packname = '𝔘𝔩𝔮𝔲𝔦𝔬𝔯𝔯𝔞'
-global.author = '𝔅𝔬𝔱'
-global.wm = '𝔘𝔩𝔮𝔲𝔦𝔬𝔯𝔯𝔞'
-global.igfg = '𝔘𝔩𝔮𝔲𝔦𝔬𝔯𝔯𝔞'
-global.wait = '*[❗] انتظر لحظه...*'
+global.suittag = ['201225188065'];
+global.prems = ['201225188065'];
+
+global.packname = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒';
+global.author = '𝔹𝕠𝕥';
+global.wm = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒 𝔹𝕠𝕥';
+global.titulowm = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒 𝔹𝕠𝕥';
+global.titulowm2 = `𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒 𝔹𝕠𝕥`
+global.igfg = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒 𝔹𝕠𝕥';
+global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
@@ -39,14 +42,14 @@ global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nBOBIZA`;
-global.gt = 'BOBIZA';
-global.mysticbot = 'The BOBIZA';
-global.md = 'https://instagram.com/noureddine_ouafy';
-global.mysticbot = 'https://instagram.com/noureddine_ouafy';
+global.gt = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒';
+global.mysticbot = '𝕌𝕝𝕢𝕦𝕚𝕠𝕣𝕣𝕒';
+global.md = 'https://wa.me/201225188065';
+global.mysticbot = 'https://wa.me/201225188065';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
 global.waitttt = '*[ ⏳ ] LOADING...*';
-global.nomorown = '212605784394';
+global.nomorown = '201225188065';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
